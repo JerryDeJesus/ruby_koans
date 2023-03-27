@@ -1,0 +1,2 @@
+gem "observr"
+gem "rake"
